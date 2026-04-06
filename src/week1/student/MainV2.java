@@ -8,6 +8,7 @@ public class MainV2 {
         int num = 0;
         Scanner scanner = new Scanner(System.in);
         while(true) {
+
             System.out.println("저장할 아기사자 수를 5 이상 입력해주세요.");
 
             num = scanner.nextInt();
